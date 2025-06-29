@@ -1,5 +1,7 @@
-# 🫀 Heart Disease Prediction Using Neural Network
 ![Screenshot 2025-06-29 145830](https://github.com/user-attachments/assets/4a2b3082-e5a0-4b2e-b5ba-7ed480120e3c)
+![plot](https://github.com/user-attachments/assets/8d955271-b249-465b-8d40-5a4a27398598)
+
+# 🫀 Heart Disease Prediction Using Neural Network
 
 This repository contains a complete machine learning project that predicts the presence of heart disease using a Neural Network model trained on clinical parameters. The project also includes a Streamlit-based web app for real-time user interaction and prediction.
 
